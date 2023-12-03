@@ -1,0 +1,5 @@
+# andreaxgu.github.io
+Hello All! This Twine narrative is meant to take the place of time travel, taking the user back to the 16th century in the country of England. More specifically, the user gets a deeper insight on the times of the Elizabethan Religious Settlement. Within the narrative, many important figures during this century are discussed, such as Queen Elizabeth I, her predecessors and siblings, Mary I and Edward VI, and Thomas Cranmer!
+Additionally, the narrative follows chronologically the process of the Elizabethan Religious Settlement and the collection of laws and decisions that concerned the religious practices of England.
+Within the Twine story, there are a few detours that the user can take which gives them a little more information about the character's involved, or specific things to note while they're walked through the years of the Elizabethan Religious Settlement. 
+With the implementation of Twine's ability to add color change to texts within the narrative, or the addition of videos and visuals, we attempt to serve an enjoyable learning experience for users of various ages. So take your time and enjoy your ride traveling back in time!
